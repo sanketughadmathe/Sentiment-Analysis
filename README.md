@@ -1,4 +1,4 @@
-# [Click here if the file is not opening is github](https://nbviewer.jupyter.org/github/sanketughadmathe/Sentiment-Analysis/blob/master/V1.ipynb)
+# [Click here if the file is not opening in github](https://nbviewer.jupyter.org/github/sanketughadmathe/Sentiment-Analysis/blob/master/V1.ipynb)
 
 # Amazon Fine Food Reviews Dataset [(Kaggle)](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
